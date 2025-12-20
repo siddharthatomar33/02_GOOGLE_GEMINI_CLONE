@@ -19,6 +19,19 @@ const Main = () => {
                 <p>Suggest beautiful palce to see on an upcoming travel trip</p>
                 <img src={assets.compass_icon} alt="" />
             </div>
+             <div className="card">
+                <p>Briefly summarize this concept: urban planning</p>
+                <img src={assets.compass_icon} alt="" />
+            </div> <div className="card">
+                <p>Brianstrom team bonding activites for our work retreat</p>
+                <img src={assets.bulb_icon} alt="" />
+            </div> <div className="card">
+                <p>Suggest beautiful palce to see on an upcoming travel trip</p>
+                <img src={assets.message_icon} alt="" />
+            </div> <div className="card">
+                <p>Suggest beautiful palce to see on an upcoming travel trip</p>
+                <img src={assets.code_icon} alt="" />
+            </div>
         </div>
         </div>  
     </div>
